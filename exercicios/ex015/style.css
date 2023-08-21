@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body{
+    background-color: antiquewhite;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+h1{
+    color: chocolate;
+}
+h2{
+    color: brown;
+}
+p{
+    text-align: justify;
+}
